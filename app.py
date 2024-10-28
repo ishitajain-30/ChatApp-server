@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import os
 from typing import Optional
 
-from something import Chatbot, Embedder
+from utils import Chatbot, Embedder
 
 app = FastAPI()
 
