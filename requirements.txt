@@ -1,8 +1,8 @@
-fastapi==0.104.0
-uvicorn==0.22.0
-pydantic==1.10.7
-python-multipart==0.0.5
-langchain==0.0.200 
-langchain_community==0.0.1 
-faiss-cpu==1.7.2 
-groq==0.1.0 
+fastapi
+uvicorn
+pydantic
+python-multipart
+langchain
+langchain_community 
+faiss-cpu 
+groq
